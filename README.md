@@ -1,6 +1,6 @@
 # Land Page by Treinamento-CITi-area-Dev
 
-![Imagem da Página Criada](/assets/images/gabrielcassio.github.io_Treinamento-CITi-area-Dev_.png)
+<img src="/assets/images/gabrielcassio.github.io_Treinamento-CITi-area-Dev_.png" width="250" height="500" alt="Imagem da Página Criada"> 
 
 **[Link da Página Criada](https://gabrielcassio.github.io/Treinamento-CITi-area-Dev/)**
 
